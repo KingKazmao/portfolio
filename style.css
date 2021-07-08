@@ -1,0 +1,39 @@
+body {
+   background-color:black;
+  }
+
+  p{
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size:xx-large;
+      text-align: center
+     }
+    p1{
+        color: white;
+        font-size: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align:right
+        position:justify
+    }
+    p2{
+        color: white;
+        font-size: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align:right
+    }
+  
+     h1{
+      color: green
+  }
+  hr{
+    height: 1px;
+    background-color: yellow
+    border: none
+}
+img{
+    style
+}
+a{
+    color: yellow
+    
+}
