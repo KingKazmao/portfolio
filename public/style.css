@@ -31,7 +31,7 @@ body {
     border: none
 }
 img{
-    style
+    border-radius: 50%;
 }
 a{
     color: yellow
